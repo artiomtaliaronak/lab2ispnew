@@ -1,5 +1,5 @@
 .coverage
 files.txt
 warning.log
-.idea
-__pycache__
+.idea/
+__pycache__/
