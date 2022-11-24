@@ -1,7 +1,7 @@
 import yaml
 from inspect import stack
-from my_load import load as ld
-from my_dump import dump as dp
+from .my_load import load as ld
+from .my_dump import dump as dp
 
 
 class YamlSerializer:
